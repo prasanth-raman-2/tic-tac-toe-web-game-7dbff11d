@@ -1,3 +1,4 @@
+// Warning: Debug mode should only be enabled in development
 export const DEBUG_MODE = process.env.NODE_ENV === 'development';
 
 export const logGameState = (gameState) => {

@@ -1,3 +1,5 @@
+// Configuration for the application's visual theme system
+// These values are carefully chosen for optimal contrast and accessibility
 export const theme = {
   colors: {
     primary: '#4A90E2',

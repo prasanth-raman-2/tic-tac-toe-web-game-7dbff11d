@@ -1,3 +1,5 @@
+// Symbolic constants used throughout the game
+// These values should not be modified during runtime
 export const GAME_SYMBOLS = {
   X: 'X',
   O: 'O',

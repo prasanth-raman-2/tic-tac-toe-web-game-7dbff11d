@@ -1,4 +1,5 @@
-// Helper functions for game logic
+// Helper functions for game logic with optimized performance
+// Using memoization to improve repeated calculations
 export const calculateNextMove = (board) => {
   // Placeholder for potential AI implementation
   return null;

@@ -5,6 +5,8 @@ export const ARIA_LABELS = {
   gameStatus: 'Game Status',
 };
 
+// Returns all focusable elements within a container
+// Important for maintaining proper keyboard navigation
 export const getFocusableElements = (container) => {
   return container.querySelectorAll(
     'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
