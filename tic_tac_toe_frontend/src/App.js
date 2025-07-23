@@ -1,3 +1,4 @@
+// This is an interactive Tic Tac Toe game with turn-based gameplay and win detection
 import React, { useState } from 'react';
 import './App.css';
 
